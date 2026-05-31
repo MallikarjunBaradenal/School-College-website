@@ -76,7 +76,7 @@ cd SchoolWebsite
 ### 2. Create a Virtual Environment
 ```bash
 python -m venv venv
-```
+``
 
 ### 3. Activate the Virtual Environment
 #### On Windows:
